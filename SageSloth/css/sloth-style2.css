@@ -1,0 +1,223 @@
+.practice-button {
+    color: #A8D672;
+}
+
+.hero {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 48px;
+    padding: 48px 0;
+    color: white;
+}
+
+.hero-copy {
+    display: flex;
+    flex-direction: column;
+}
+
+.hero-title {
+    font-size: 40px;
+}
+
+.eyebrow {
+    color: #70D6B2;
+}
+
+.beginner-friendly-rounds {
+    color: gray;
+}
+
+.mascot-image {
+    width: 420px;
+}
+
+.quest-library {
+    margin: 24px 0;
+    color: white;
+}
+
+.library-title {
+    font-size: 24px;
+}
+
+.library-description {
+    color: gray;
+}
+
+.quest-filters {
+    display: flex;
+    gap: 8px;
+    margin: 24px 0;
+}
+
+.reset-button-base {
+    padding: 8px 14px;
+    border-radius: 999px;
+    background-color: #13201B;
+    color: #9EAA9E;
+}
+
+.reset-button-selected {
+    background-color: #A8D672;
+    color: black;
+}
+
+.quest-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+}
+
+.quest-card {
+    width: 28%;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: #13201B;
+}
+
+.card-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50px;
+    height: 50px;
+    border-radius: 12px;
+    background-color: #C6B5FF;
+}
+
+.icon-image {
+    width: 22px;
+    height: 22px;
+}
+
+.spawn-breathing-icon {
+    background-color: #A8D672;
+}
+
+.tilt-reset-icon {
+    background-color: #FFB893;
+}
+
+.one-match-icon {
+    background-color: #70D6B2;
+}
+
+.gg-cooldown-icon {
+    background-color: #E8DE70;
+}
+
+.boss-grounding-icon {
+    background-color: #F3F1E7;
+}
+
+.duration {
+    color: #9EAA9E;
+}
+
+.description {
+    color: #9EAA9E;
+}
+
+.quest-card-title {
+    font-size: 22px;
+    font-weight: 400;
+}
+
+.level {
+    display: flex;
+    width: fit-content;
+    padding: 6px 12px;
+    border-radius: 999px;
+    background-color: #0B1210;
+    color: #A8D672;
+    font-size: 12px;
+}
+
+.loading-screen-level {
+    color: #C6B5FF;
+}
+
+.tilt-reset-level {
+    color: #FFB893;
+}
+
+.gg-cooldown-level {
+    color: #E8DE70;
+}
+
+.boss-grounding-level {
+    color: #F3F1E7;
+}
+
+.loading-screen-action {
+    color: #C6B5FF;
+}
+
+.spawn-breathing-action {
+    color: #A8D672;
+}
+
+.tilt-reset-action {
+    color: #FFB893;
+}
+
+.one-match-level {
+    color: #70D6B2;
+}
+
+.one-match-action {
+    color: #70D6B2;
+}
+
+.gg-cooldown-action {
+    color: #E8DE70;
+}
+
+.boss-grounding-action {
+    color: #F3F1E7;
+}
+
+.action {
+    margin-top: 16px;
+    text-transform: uppercase;
+}
+
+.quest-progress {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    margin-top: 40px;
+    padding: 28px;
+    border-radius: 24px;
+    background-color: #13201B;
+}
+
+.progress-value {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    border-radius: 16px;
+    background-color: #C6B5FF;
+    font-size: 24px;
+}
+
+.progress-description {
+    color: #9EAA9E;
+}
+
+.progress-action {
+    display: flex;
+    width: fit-content;
+    padding: 8px 14px;
+    border-radius: 999px;
+    background-color: #A8D672;
+    color: black;
+}
